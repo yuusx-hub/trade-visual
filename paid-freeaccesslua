@@ -1,4 +1,4 @@
 setclipboard = function() end
 toclipboard = function() end
 
-loadstring(game:HttpGet("https://pastefy.app/OIBIMQhM/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/e3lljs2Q/raw"))()
